@@ -25,13 +25,13 @@ While some of our projects are open for community collaboration, we also develop
 We welcome contributions from the community! If you're interested in contributing to any of our open source projects, please check out our Contribution Guidelines to get started.-->
 ### Sponsors
 
-We are actively seeking partnerships with organizations that share our vision for innovation and technology advancement. By sponsoring Blake Technologies, you not only support our projects but also become an integral part of our journey. Reach out to us at sponsorship@blaketech.com to discuss sponsorship opportunities.
+We are actively seeking partnerships with organizations that share our vision for innovation and technology advancement. By sponsoring Blake Technologies, you not only support our projects but also become an integral part of our journey.Visit our [sponsorship page](https://github.com/sponsors/Blake-Industries?o=sd&sc=t )
 
 ## Contact Us
 
-    Email: blakeind72@gmail.com
-    <!--Twitter: @BlakeTech
-    LinkedIn: Blake Technologies -->
+Email: blakeind72@gmail.com
+<!--Twitter: @BlakeTech
+LinkedIn: Blake Technologies -->
 
 Thank you for considering Blake Technologies. Let's build the future together!
 
