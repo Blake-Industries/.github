@@ -8,14 +8,15 @@ Welcome to the official GitHub organization for Blake Technologies! We're a dyna
 
 ## About Us
 
-At Blake Technologies, we believe in the power of technology to transform industries and improve lives. Our diverse team of developers, designers, and innovators is committed to pushing the boundaries of what's possible. From cutting-edge closed-source applications to community-driven open source projects, we're dedicated to driving progress and fostering collaboration.
-Projects
+At Blake Technologies, we believe in the power of technology to transform industries and improve lives. Our diverse team of developers, designers, and innovators is committed to pushing the boundaries of what's possible. From cutting-edge closed-source applications to community-driven open source projects, we're dedicated to driving progress and fostering collaboration. We also take on personalized projects based on client requests.
 
-## Open Source
+## Projects
+
+### Open Source
 
 Explore our open source projects that exemplify our commitment to transparency, collaboration, and community growth. We welcome contributions from developers of all skill levels, and together, we can build something amazing.
 
-## Closed Source
+### Closed Source
 
 While some of our projects are open for community collaboration, we also develop cutting-edge closed-source solutions that push the boundaries of technology. These projects represent the forefront of innovation, and we are proud to partner with forward-thinking organizations to bring them to life.
 
