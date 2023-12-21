@@ -32,8 +32,8 @@ We are actively seeking partnerships with organizations that share our vision fo
 
 Email: blakeind72@gmail.com
 
-Visit our [website](https://website-phi-lilac.vercel.app/){:target=”_blank”}
-[here](https://www.geeksforgeeks.org/){:target="_blank"}
+Visit our [website](https://website-phi-lilac.vercel.app/){:target=”_blank” rel="noopener"}
+
 <!--Twitter: @BlakeTech
 LinkedIn: Blake Technologies -->
 
